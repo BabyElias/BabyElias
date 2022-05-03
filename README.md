@@ -20,10 +20,11 @@
   
 <h3 align="left">Connect with me :</h3><a href="https://www.linkedin.com/in/anoushka-jha-359736227/"> <img src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" alt="linkedin icon" width="24"></a><br><br>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BabyElias&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BabyElias&count_private=true&show_icons=true&theme=tokyonight" />
 
 ![Anoushka's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BabyElias&theme=vision-friendly-dark)<br>
+
   
   
   
