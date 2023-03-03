@@ -2,7 +2,7 @@
 <h3 align="center">An explorer who loves to remain lost in the mystical forest of technology.✨ </h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BabyElias&color=8840fc" alt="induviduality" /> </p>
+
 <img align ="right" alt="HelloEveryone"  width="400" src="https://thumbs.gfycat.com/InfiniteConfusedBear-size_restricted.gif">
 <p> 
 
