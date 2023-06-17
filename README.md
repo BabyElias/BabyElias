@@ -1,12 +1,7 @@
-<h1 align="center">HELLO FOLKS! I'm Anoushka Jha👋</h1>
-<h3 align="center">An explorer who loves to remain lost in the mystical forest of technology.✨ </h3>
 
 
-
-<img align ="right" alt="HelloEveryone"  width="400" src="https://thumbs.gfycat.com/InfiniteConfusedBear-size_restricted.gif">
-<p> 
-
-</p><br>
+<img align ="center" alt="HelloEveryone"  width="100%" src="header.png">
+ <br>
 <p><b>I am a Sophomore at IIT(BHU),Varanasi. And I like to think of myself as a quick learner who loves to connect with people, learn anything new that comes on the way and take up interesting challenges that not only push her to improve herself but also,to  think out of the box !</p>
 </b>
 
