@@ -1,6 +1,6 @@
 
 
-<img align ="center" alt="HelloEveryone"  width="100%" src="header.png">
+<img align ="center" alt="HelloEveryone"  width="100%" src="header.jpg">
 <p align="center">
 
  <br>
