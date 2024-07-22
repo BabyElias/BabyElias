@@ -5,7 +5,7 @@
 
  <br>
  
-<p align="center"><b>I am a Pre-Final Yearite at IIT(BHU),Varanasi. And I like to think of myself as a quick learner who loves to connect with people, learn anything new that comes on the way and take up interesting challenges that not only push her to improve herself but also,to  think out of the box !</p>
+<p align="center"><b>I am a Final Yearite at IIT(BHU),Varanasi. And I like to think of myself as a quick learner who loves to connect with people, learn anything new that comes on the way and take up interesting challenges that not only push her to improve herself but also,to  think out of the box !</p>
 </b>
 
 
